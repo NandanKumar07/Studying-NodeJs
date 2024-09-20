@@ -1,0 +1,1 @@
+we are writing something inside the file with the help of fs module in node js This is updated data
